@@ -1,4 +1,1 @@
-sketch-ios
-==========
-
-Move to nvk/sketch-ios
+# [Moved to nvk/sketch-ios >>](http://github.com/nvk/sketch-ios)
